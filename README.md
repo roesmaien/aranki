@@ -1,8 +1,8 @@
-# ANKI Madina Arabic Deck (v2).
+# ANKI Madina Arabic Deck (v3)
 
 ## Intro
 
-This is ANKI version of Madina Arabic Book series. There 3 books in this series which are availbale in English language. As of (v2) I've finished only two of these books, so check for future updates. **ANKI Madina Arabic Deck** (further **the Deck**) is recommended as additional resources to help you better remember grammatical concepts and new words that you will encounter during your language learning.
+This is ANKI version of Madina Arabic Book series. There're 3 books in this series which are availbale in English language. As of (v3) I've finished all three parts of these books. **ANKI Madina Arabic Deck** (further **the Deck**) is recommended as additional resource to help you better remember grammatical concepts and new words that you will encounter during your language learning.
 
 ## Resources
 
@@ -22,14 +22,17 @@ Links are available in the Download section below.
 
 * **Book 1 Grammar** under the tag @madinah::book1::grammar
 * **Book 2 Grammar** under the tag @madinah::book2::grammar
+* **Book 3 Grammar** under the tag @madinah::book3::grammar
 * **Vocabulary of Book 1** under the tag @madinah::book1::vocabulary
 * **Vocabulary of Book 2** under the tag @madinah::book2::vocabulary
+* **Vocabulary of Book 3** under the tag @madinah::book3::vocabulary
+* **Self-created notes** under the tag @madinah::self_created
 
-As of (v2), ANKI Madina Arabic Deck consists of 2300+ cards. 
+As of (v3), ANKI Madina Arabic Deck consists of 4600+ cards. 
 
 ## Fields of Grammar Deck
 
-**Regarding fields**. There are six fields in Arabic Grammar Note Type:
+**Regarding fields**. There are seven fields in Arabic Grammar Note Type:
 
 * cloze:Text
 * Back Extra
@@ -37,10 +40,66 @@ As of (v2), ANKI Madina Arabic Deck consists of 2300+ cards.
 * hint:ARIC - Arabic Class Notes
 * hint:ARIC - Tables
 * hint:Personal Notes
+* hint:Tags
 
-**Cloze** and **Back Extra** will show up as you answer the card. Those, which are tagged "**hint**", require you to tap on them to show the content.
+**Cloze** and **Back Extra** will show up as you answer the card. 
 
-[[Imgur] Click on Book Extra to see its content.](https://imgur.com/49TqNyT)
+Those, which are tagged "**hint**", will show themselves up if they have got some content in it and will require you to tap on them to show this content.
+
+[[Imgur] Click on Hint Field to see its content.](https://imgur.com/CRuyzNl)
+
+## Notes styling
+
+While I was learning cards on Grammar, I noticed that they don't the same structure that emphasizes the parts you have to remember. That's why I decided to add some rules on have the cards are stylized.
+
+I also encourage you to use the styling described below when posting something on this community.
+
+### Conjugation of words
+
+All words conjugations will be written inside [...] in short forms. The short forms are: 
+
+* Grammatical Person
+	* [fp] is for first person
+	* [sp] is for second person
+	* [tp] is for third person
+* Grammatical Gender
+	* [m] is for masculine
+	* [f] is for feminine
+* Grammatical Number
+	* [s] is for singular
+	* [p] is for plural
+
+For clarity, all of the above abbreviations are arranged in the following order:
+
+[{*person*}.{*gender*}.{*number*}]
+
+, where every single components of the construction is subdivided by (.), so **second person masculine plural**, according to this concept, is going to be [sp.m.p]. It just takes less space and looks fine. 
+
+The **boldness** of font doesn't matter because I make English text **bold** when it is part of Cloze Deletion. 
+
+### Translation of words/sentences
+
+All English translations of words or sentences will be specified inside (...) WITHOUT *italic* font-style. 
+
+The **boldness** of font doesn't matter because I make English text **bold** when it is part of Cloze Deletion. 
+
+### Transliteration of words/sentences
+
+All English transliterations of words or sentences will be specified inside (...) WITH *italic* font-style. 
+
+The **boldness** of font doesn't matter because I make English text **bold** when it is part of Cloze Deletion.
+
+### References to Books
+
+In some notes you'll wind something like this:
+
+B2L24 or B1E1
+
+The meaning of each letter is the following:
+
+* B is for Book
+* E is for Exercise
+* L is for Lesson
 
 ## Vocabulary
 
@@ -66,26 +125,24 @@ Starting from (v2), [**Noto Serif**](https://fonts.google.com/noto/specimen/Noto
 
 Furthermore, both of these fonts are installed inside ANKI Madina Arabic Deck. So, there's no need to download each font separately to make it work within your device. Whether its your mobile or school computer, the Deck will look the same across all platforms. 
 
-[[Imgur] Noto Serif and Noto Naskh are official fonts the Deck](https://imgur.com/a/FQsQTiQ)
-
-
 ## Night Mode
 
 Night mode is fully compatible with the Deck.
 
-[[Imgur] Night Mode is available](https://imgur.com/4MopkPQ)
+[[Imgur] Night Mode is available](https://imgur.com/mfoYiSf).
 
 ## Futher Updates
 
-**Regarding further updates**. I think to add some symbolic representation to distinguish between English translation, transliteration and conjugation of words, so the structure of cards is the same across the Deck. Some work on vocabulary cards will be done. Also I am working on tables for Grammar of Book 1 & Book 2 using **ARIC - Arabic Class Notes** (Link is provided below).
+**Regarding further updates**. I think to add plenty of new words in the next iteration of this deck. You can find vocabulary that will be add on [arabic.desert-sky.net](https://arabic.desert-sky.net/vocab.html).
 
-Updated deck will be available in [r/aranki](https://www.reddit.com/r/aranki/) community and in GitHub repository [roesmaien / aranki](https://github.com/roesmaien/aranki)
+
+Updated deck will be available in [r/aranki](https://www.reddit.com/r/aranki/) community and in GitHub repository [roesmaien / aranki](https://github.com/roesmaien/aranki).
 
 Keep yourself up to date.
 
 ## Download Links
 
-[Download ANKI Madina Arabic Deck here](https://drive.google.com/file/d/1z3T1zcXet6tFJatS_rC6L_8uhUsl4Y7I/view?usp=sharing).
+[Download ANKI Madina Arabic Deck here](https://drive.google.com/file/d/1E-tHFH-TmQESvHIy7OkQZIrTC6td3ORJ/view?usp=sharing).
 
 You can [download required books here](https://abdurrahman.org/arabic-learning/madina-arabic/).
 
