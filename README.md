@@ -142,7 +142,7 @@ Keep yourself up to date.
 
 ## Download Links
 
-[Download ANKI Madina Arabic Deck here](https://drive.google.com/file/d/1E-tHFH-TmQESvHIy7OkQZIrTC6td3ORJ/view?usp=sharing).
+[Download ANKI Madina Arabic Deck here](https://github.com/roesmaien/aranki/raw/main/apkg-versions/aramcian_v3.apkg).
 
 You can [download required books here](https://abdurrahman.org/arabic-learning/madina-arabic/).
 
