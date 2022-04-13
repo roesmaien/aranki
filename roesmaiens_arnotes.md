@@ -1,4 +1,4 @@
-#roesmaiens-arnotes "some changes to test gif f(x)
+#roesmaiens-arnotes 
 
 ## madina_series
 
