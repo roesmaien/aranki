@@ -1,12 +1,14 @@
-# ANKI Madina Arabic Deck (v3)
+# Aranki Deck 
 
 ## Intro
 
-This is ANKI version of Madina Arabic Book series. There're 3 books in this series which are availbale in English language. As of (v3) I've finished all three parts of these books. **ANKI Madina Arabic Deck** (further **the Deck**) is recommended as additional resource to help you better remember grammatical concepts and new words that you will encounter during your language learning.
+Aranki deck contains grammar concepts that are part of Madina Arabic Book series and vocabulary from [arabic.desert-sky.net](https://arabic.desert-sky.net/) website. For grammar concepts cloze deletions were used as their ability to greatly help in memorization.
 
 ## Resources
 
-**Regarding resources**. The Book that I've used to create this deck is **Arabic Language For Non-Native Speakers English Key** which is used in University of Madina. And complementary material was **ARIC - Arabic Class Notes** by Dr. AbdurRahman (thanks to him for reserving no copyrights for this material).
+### Grammar
+
+The Book that I've used to create this deck is **Arabic Language For Non-Native Speakers English Key** which is used in University of Madina. And complementary material was **ARIC - Arabic Class Notes** by Dr. AbdurRahman (thanks to him for reserving no copyrights for this material).
 
 Links are available in the Download section below.
 
@@ -18,17 +20,11 @@ Links are available in the Download section below.
 
 ## Tags of the Deck
 
-**Regarding Grammar and Vocabulary Tags**. As there are only two subdecks in the Deck, it is further divided into **tags** using [Hierarchical Tags 2 add-on](https://ankiweb.net/shared/info/594329229) which is essential to download in order to be able to use these tags. These tags are:
+**Regarding Grammar and Vocabulary Tags**. There are only two subdecks in the Deck, and I've decided to not add any further subdecks. Instead, it is further divided into **tags** using [Hierarchical Tags 2 add-on](https://ankiweb.net/shared/info/594329229) which is essential to download in order to be able to use these tags.
 
-* **Book 1 Grammar** under the tag @madinah::book1::grammar
-* **Book 2 Grammar** under the tag @madinah::book2::grammar
-* **Book 3 Grammar** under the tag @madinah::book3::grammar
-* **Vocabulary of Book 1** under the tag @madinah::book1::vocabulary
-* **Vocabulary of Book 2** under the tag @madinah::book2::vocabulary
-* **Vocabulary of Book 3** under the tag @madinah::book3::vocabulary
-* **Self-created notes** under the tag @madinah::self_created
+The main tag which includes all of the Deck content is "@aranki". Under this tag you can find pretty intuitively structured content.
 
-As of (v3), ANKI Madina Arabic Deck consists of 4600+ cards. 
+As of (v4), ANKI Madina Arabic Deck consists of 5600+ notes (approx. 12000 cards). 
 
 ## Fields of Grammar Deck
 
@@ -50,7 +46,7 @@ Those, which are tagged "**hint**", will show themselves up if they have got som
 
 ## Notes styling
 
-While I was learning cards on Grammar, I noticed that they don't the same structure that emphasizes the parts you have to remember. That's why I decided to add some rules on have the cards are stylized.
+While I was learning grammar, I noticed that some notes needed special styling rules that's why I decided to add some rules on how the cards are stylized.
 
 I also encourage you to use the styling described below when posting something on this community.
 
@@ -105,7 +101,7 @@ The meaning of each letter is the following:
 
 ### Resources
 
-**Regarding resources for Vocabulary cards**. Vocabulary for Book 1 and Book 2 has been added using [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) and [The Hans Wehr Dictionary](https://drive.google.com/file/d/1SqKKRS_Qwuy0N6q3HwCusK7hrpEioBa0/view?usp=sharing).
+**Regarding resources for Vocabulary cards**. Two sources were used to create vocabulary for the deck. The first one is list of new words that comes at the end of each lesson (approx. 450 words). The second is vocabulary from [arabic.desert-sky.net](https://arabic.desert-sky.net/) website (approx. 4000 words). This resource includes 24 different word lists that you can memorize. (No need to memorize them all at once, only as needed)
 
 ### Forms of cards
 
@@ -133,18 +129,23 @@ Night mode is fully compatible with the Deck.
 
 ## Futher Updates
 
-**Regarding further updates**. I think to add plenty of new words in the next iteration of this deck. You can find vocabulary that will be add on [arabic.desert-sky.net](https://arabic.desert-sky.net/vocab.html).
+**Regarding further updates**. I've decided to improve my arabic reading and I think that FSI - Modern Written Arabic 2 is really a good book. It has text articles and along with them list of grammar concepts that were included in each article. And as a grammar reference I will use A Reference Grammar of Modern Standard Arabic by Karin C. Ryding for it itself is a great book for MSA and for it has plenty of other references inside each unit. Thus, I've decided to go my own way in learning arabic grammar. Still the deck will get updates.
 
-
-Updated deck will be available in [r/aranki](https://www.reddit.com/r/aranki/) community and in GitHub repository [roesmaien / aranki](https://github.com/roesmaien/aranki).
+Updates will be available in [r/aranki](https://www.reddit.com/r/aranki/) community and in GitHub repository [roesmaien / aranki](https://github.com/roesmaien/aranki).
 
 Keep yourself up to date.
 
-## Download Links
+## Links
 
-[Download ANKI Madina Arabic Deck here](https://drive.google.com/file/d/1E-tHFH-TmQESvHIy7OkQZIrTC6td3ORJ/view?usp=sharing).
+[Download ANKI Madina Arabic Deck here](https://github.com/roesmaien/aranki/raw/main/apkg-versions/aramcian_v4.apkg).
 
-You can [download required books here](https://abdurrahman.org/arabic-learning/madina-arabic/).
+[Desert-sky Vocabulary](https://arabic.desert-sky.net/vocab.html)
+
+[Madina Arabic Book series](https://abdurrahman.org/arabic-learning/madina-arabic/).
+
+[A Reference Grammar of Modern Standard Arabic - Amazon](https://www.amazon.com/Reference-Grammar-Modern-Standard-Grammars/dp/0521777712)
+
+[FSI - Modern Written Arabic 2](https://al3arabiya.org/modern-written-arabic-3-volumes-pdf/)
 
 [Hierarchical Tags 2 Add-on](https://ankiweb.net/shared/info/594329229).
 

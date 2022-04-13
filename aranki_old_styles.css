@@ -1,0 +1,156 @@
+.card {
+	font-family: myfont, myfontarabic;
+	font-size: 24px;
+	text-align: center;
+	line-height: 1.6;
+ 	background-color: #EBF3FF;
+}
+
+.cloze, a.hint {
+	color: blue;
+}
+
+.back, .front {
+	display: inline-block;
+	padding: 0.6em;
+
+	background: #EEFBFA;
+	border-radius: 16px;
+	width: auto;
+	max-width: 90%;
+}
+
+/* ------------------------ */
+/* THESE ARE FOR TABLE ---- */
+/* ------------------------ */
+
+.tablertl {
+	overflow-x: scroll;
+	overflow: scroll;
+}
+
+table, td {
+	border: 1px solid black; 
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	min-width: auto;
+}
+
+td {
+	padding: 8px 16px;
+}
+
+/* ------------------------ */
+/* THESE ARE FOR LISTS ---- */
+/* ------------------------ */
+
+ul, ol {
+	display: inline-block;
+	font-size: inherit;
+	text-align: left;
+	margin-top: 15px auto initial auto; 
+}
+
+/* ------------------------ */
+/* THESE ARE FOR TAGS ----- */
+/* ------------------------ */
+
+.tagsMainBlock {
+	box-sizing: border-box; 
+	border-radius: 10px;
+	line-height: 0;
+
+	overflow: scroll;
+}
+
+.tagsSubBlock {
+	box-sizing: border-box;
+	display: inline-block;
+	width: auto;
+	font-size: 0.7rem;
+	line-height: 2em;
+	border-radius: inherit;
+	margin-top: 50px;
+	padding: 8px 12px 8px 12px;
+
+	background: #EBF3FF; 
+}
+
+/*--- Hide Scrollbars But Keep Functionality ---*/
+
+.tagsMainBlock::-webkit-scrollbar {
+  display: none;
+}
+
+/* ------------------------ */
+/* THESE ARE FOR NIGHT MODE */
+/* ------------------------ */
+
+.nightMode.card td {
+	border: 2px solid white; 
+}
+
+.nightMode.card, .nightMode .tags {
+	background-color: #0E1B1B;
+}
+
+.nightMode .cloze, .nightMode a.hint {
+	color: yellow;
+}
+
+.nightMode .back, .nightMode .front {
+	background: #182C3A;
+}
+
+.nightMode .tagsSubBlock {
+	background-color: #0E1B1B;
+}
+
+/* ------------------------ */
+/*  ANKI WEB COMPATIBILITY  */
+/* ------------------------ */
+
+b, span, ul, ol, li {
+	zoom: normal !important;
+}
+
+/* ------------------------ */
+/*      INSTALLED FONT      */
+/* ------------------------ */
+
+@font-face {
+	font-family: myfont;
+	src: url("_notoserifregular.ttf") format("truetype");
+}
+
+
+@font-face {
+	font-family: myfont;
+	src: url("_notoserifbold.ttf");
+	font-weight: bold;
+}
+
+
+@font-face {
+	font-family: myfont;
+	src: url("_notoserifitalic.ttf");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: myfont;
+	src: url("_notoserifbolditalic.ttf"); 
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+@font-face {
+  font-family: myfontarabic;
+	src: url("_notonaskharabicvariable.ttf") format("truetype");
+	font-weight: 100 1000;
+}
+
