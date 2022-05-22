@@ -12,11 +12,6 @@
 8. [Download Links.](download-links)
 9. [PS.](ps)
 
-
-
-
-
-
 ## Intro
 
 Today I publish the first ANKI version of **Madina Arabic: Book 2 (Grammar)**.
